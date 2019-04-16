@@ -1,1 +1,0 @@
-$ui.toast("hello world")
